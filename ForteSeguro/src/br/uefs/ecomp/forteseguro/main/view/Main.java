@@ -7,7 +7,7 @@ package br.uefs.ecomp.forteseguro.main.view;
 
 /**
  *
- * @author User
+ * @author Marcos Vinícius C. Lima
  */
 public class Main {
     public static void main(String[] args){
